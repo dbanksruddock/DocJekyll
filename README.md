@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -184,13 +185,13 @@
 </head>
 <body>
  <header>
-    <h1>Maximize Your Earnings with CPA Grip Links!</h1>
+    <h1>Maximize Your Earnings with CPA Grip Insights!</h1>
     <h2>Unlock the Power of Affiliate Marketing and Boost Your Online Revenue Today!</h2>
   </header>
   
   <!-- Benefits Section -->
   <section id="benefits">
-  <h3>Key Benefits of CPA Grip Links</h3>
+  <h3>Key Benefits of CPA Grip Insights</h3>
   <ul>
     <li>
       <img src="benefit-icon-1.png" alt="Benefit 1">
@@ -214,33 +215,32 @@
     <h3>What our clients say:</h3>
    
     <div class="testimonial">
-      <img src="user-photo-1.png" alt="User 1">
+      <img src="user-photo-1.png" alt="Cassandra C">
       <blockquote>
         <p>"CPA Grip Insights has completely transformed my affiliate marketing game. The platform's intuitive interface and advanced tracking capabilities have helped me optimize my campaigns and skyrocket my earnings. Thanks to CPA Grip, I've been able to consistently generate high-quality leads and earn substantial commissions. It's hands down the best affiliate network I've ever used</p>
         <cite>-Cassandra C</cite>
       </blockquote>
     </div>
     <div class="testimonial">
-      <img src="user-photo-2.png" alt="User 2">
+      <img src="user-photo-2.png" alt="Dustyn D">
       <blockquote>
         <p>"I can't recommend CPA Grip Insights enough! The extensive range of offers and the smart link technology have made it incredibly easy for me to monetize my website traffic effectively. The support from the CPA Grip team has been outstanding - they are always available to answer my questions and provide valuable insights. With CPA Grip Insights, I've been able to turn my online efforts into a profitable business."</p>
         <cite>-Dustyn R</cite>
       </blockquote>
     </div>
     <a href="#signup" class="cta-button">Start Earning Today</a>
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1MvXMRBnEFMcASCCslRy3GMZ"
+  publishable-key="pk_live_51Mv69oBnEFMcASCCo0o8JmZXJh5hVRfD7DvYqDF6Dn5hrJWCZTwDQnNt44ZSeXc9iI8ZE6zWSzHYbGG03UowhvmL00KpEiWh65"
+>
+</stripe-buy-button>
   </section>
   
-  <!-- Offers Section -->
-  <section id="offers">
-    <h3>Featured Offers:</h3>
-    <img src="offer-1.png" alt="Offer 1">
-    <p>Get a $50 Amazon gift card on your first purchase. <a href="//www.alienintel-2807c.web.app">Learn more</a></p>
-    <img src="offer-2.png" alt="Offer 2">
-    <p>Sign up for our premium subscription and get 30% off the first month. <a href="http://www.alienintel-2807c.web.app">Learn more</a></p>
-    <img src="offer-3.png" alt="Offer 3">
-    <p>Refer a friend and earn $20 for every successful referral. <a href="www.alienintel-2807c.web.app">Learn more</a></p>
-    <a class="cta-button" href="https://www.alienintel-2807c.web.app">View All Offers</a>
-  </section>
+
   
   <!-- Countries Section -->
   <section id="countries">
@@ -305,25 +305,16 @@
 <section id="cta">
   <h3>Start earning with CPA Grip today!</h3>
   <p>Join thousands of affiliates and monetize your traffic effectively.</p>
-  <button id="open-signup-form">Open Sign Up Form</button>
+  <button id="GitACPAGripinsight"Subscribe to GitaCPAGripInsightsForm</button>
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
 
-  <div id="signup-container"></div>
-
-  <script>
-    document.getElementById("open-signup-form").addEventListener("click", function() {
-      var signupContainer = document.getElementById("signup-container");
-
-      // Create an iframe element and set its source to the sign-up form HTML file
-      var iframe = document.createElement("iframe");
-      iframe.src = "https://www.signuppage.html"; // Replace with the actual URL of the hosted sign-up form file
-      iframe.style.width = "100%";
-      iframe.style.height = "400px";
-
-      // Append the iframe to the signup container element
-      signupContainer.appendChild(iframe);
-    });
-  </script>
-</section>
+<stripe-buy-button
+  buy-button-id="buy_btn_1MvXMRBnEFMcASCCslRy3GMZ"
+  publishable-key="pk_live_51Mv69oBnEFMcASCCo0o8JmZXJh5hVRfD7DvYqDF6Dn5hrJWCZTwDQnNt44ZSeXc9iI8ZE6zWSzHYbGG03UowhvmL00KpEiWh65"
+>
+</stripe-buy-button>
 
   
   <!-- Footer Section -->
